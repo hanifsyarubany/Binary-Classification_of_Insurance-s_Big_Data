@@ -1,1 +1,1 @@
-# Binary-Classification_of_Insurance-s_Big_Data
+# Binary Classification of Insurance's Big Data
